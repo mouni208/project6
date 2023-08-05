@@ -1,0 +1,60 @@
+body{
+    text-align: center;
+    background-image: url('bng.jpg');
+}
+h1{
+    color: beige;
+}
+header{
+    background-color: black;
+    padding: 10px;
+}
+ul li{
+    display:inline;
+   padding:30px;
+}
+ul li a{
+    color:goldenrod;
+    text-decoration: none;
+}
+#home img{
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+#home p{
+    align-items: center;
+}
+#protfolio{
+    background-color: rgb(167, 243, 243);
+}
+footer{
+    background-color: rgb(181, 125, 237);
+    height:20px;
+    padding: 20px;
+}
+li{
+    display: inline;
+    margin-right: 10px;
+    padding: 50px;
+    text-align: center;
+}
+#skills{
+    display: inline;
+}
+
+div:hover{
+    transform: scaleX(20,3);
+ display: inline;
+  margin:0px 20px 0px 20px;
+  
+}
+
+ progress{
+    transform: translate(10%);
+    background-color: rgb(143, 46, 239);
+    justify-content: center;
+}
